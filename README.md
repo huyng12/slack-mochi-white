@@ -5,7 +5,7 @@ A true light theme with pastel colors for your comfort and calm.
 ## Mochi White Purple
 
 ### Screenshots
-![Mochi White screenshot](./screenshots/mochi-white-screenshot.png)
+![Mochi White screenshot](./screenshots/mochi-white-purple-screenshot.png)
 
 ### Colors
 ```
